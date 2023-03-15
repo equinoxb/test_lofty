@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Andreev",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "puppeteer": "^19.7.5"
+  }
+}
